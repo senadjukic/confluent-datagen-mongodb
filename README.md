@@ -5,7 +5,7 @@ Create a local Confluent environment on Docker Compose, generate test data with 
 
 Clone the repository
 ```
-git clone git@github.com:senadjukic/confluent-datagen-mongodb.git && \
+$ git clone git@github.com:senadjukic/confluent-datagen-mongodb.git && \
 cd confluent-datagen-mongodb
 ```
 
